@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import requests
 from bs4 import BeautifulSoup
+import nltk
 from nltk.tokenize import sent_tokenize
 import networkx as nx
 import matplotlib.pyplot as plt
