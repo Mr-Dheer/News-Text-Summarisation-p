@@ -9,4 +9,5 @@ async-timeout==4.0.2
 jinja2-time==0.2.0
 onnxruntime==1.13.1
 gunicorn==19.7.1
+scipy==1.7.3
 
