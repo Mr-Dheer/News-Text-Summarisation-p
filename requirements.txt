@@ -1,0 +1,11 @@
+Flask==2.1.2
+requests==2.27.1
+beautifulsoup4==4.6.0
+nltk==3.7
+networkx==2.7.1
+matplotlib==3.5.1
+numpy==1.23.5
+async-timeout==4.0.2
+jinja2-time==0.2.0
+onnxruntime==1.13.1
+
