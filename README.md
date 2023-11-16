@@ -48,6 +48,8 @@ The graph-based model for extractive text summarization operates through several
 5. **Summary Generation:** Ranks sentences based on PageRank scores, composing the extractive summary from the top-ranked sentences, effectively capturing the essential content of the original text.
 
 ---
+The graph based model also creates graph like the one below 
+![Project Overview](https://github.com/Mr-Dheer/News-Text-Summarisation-p/blob/main/images/Screenshot%202023-11-16%20at%201.54.03%20PM.png)
 
 
 
