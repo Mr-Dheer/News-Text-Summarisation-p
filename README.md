@@ -1,6 +1,6 @@
 
 
-## Research Paper - https://arxiv.org/abs/2310.11520
+## I have also published a Research Paper for the same - https://arxiv.org/abs/2310.11520
 ## Website - https://newstextsummarisation.onrender.com
 ## Google Scholar - 
 
