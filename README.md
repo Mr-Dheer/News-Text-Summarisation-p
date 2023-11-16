@@ -50,7 +50,8 @@ The graph-based model for extractive text summarization operates through several
 ---
 The graph-based approach also involves creating a visual representation of the sentence similarity graph. Below is an illustration of the graph generated during the summarization process:
 
-<img src="[https://example.com/graph_image.png](https://github.com/Mr-Dheer/News-Text-Summarisation-p/blob/main/images/Screenshot%202023-11-16%20at%201.54.03%20PM.png)https://github.com/Mr-Dheer/News-Text-Summarisation-p/blob/main/images/Screenshot%202023-11-16%20at%201.54.03%20PM.png" alt="Graph-based Model" width="400" height="300">
+![Graph-based Model](https://github.com/Mr-Dheer/News-Text-Summarisation-p/blob/main/images/Screenshot%202023-11-16%20at%201.54.03%20PM.png)
+
 
 
 
