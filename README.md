@@ -4,7 +4,7 @@
 ## Website - https://newstextsummarisation.onrender.com
 ## Google Scholar - 
 
-# News-Text-Summarisation
+# 🌐 News-Text-Summarisation 📰
 
 In today’s rapidly evolving and interconnected world, it
 is impossible to overstate the importance of news. It plays
@@ -28,7 +28,7 @@ This project harnesses Natural Language Processing techniques for extractive tex
 
 ---
 
-## Functionality
+## Functionality 🛠️
 
 - **News Retrieval:** Utilizes News API to collect the latest news articles.
 - **Web Scraping:** Retrieves full articles by scraping content from the provided article links.
@@ -37,7 +37,7 @@ This project harnesses Natural Language Processing techniques for extractive tex
 
 ---
 
-## Model Working
+## Model Working 🧠
 
 The graph-based model for extractive text summarization operates through several steps:
 
