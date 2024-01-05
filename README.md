@@ -1,6 +1,7 @@
 
 
 ## I have also published a Research Paper for the same - https://arxiv.org/abs/2310.11520
+It takes a few minutes before  the website is loaded as it scrapes the news, performs summarisation and then it loads
 ## Website - https://newstextsummarisation.onrender.com
 
 
